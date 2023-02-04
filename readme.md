@@ -1,4 +1,4 @@
-If you have not done already you need to install [Anaconda](https://docs.anaconda.com/anaconda/install/index.html)
+If you have not done already you need to install [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) first.
 
 
 ## Install the Dependencies
