@@ -43,7 +43,7 @@ python check_install.py
 ```
 
 
-### Opening and running Jupyter Notebooks 
+## Opening and running Jupyter Notebooks 
 
 To launch a Jupyter notebook, open your terminal and navigate to the directory where you would like to save your notebook. Then type the command `jupyter notebook` in the your terminal (at the directory where you have saved your notebook) and the program will instantiate a local server at localhost:8888 (or another specified port). For more detailed tutorial see here: https://www.codecademy.com/article/how-to-use-jupyter-notebooks 
 
