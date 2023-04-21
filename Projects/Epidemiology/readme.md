@@ -10,4 +10,4 @@ https://colab.research.google.com/drive/1u711tfJPQPYD7jB3YOMB6aLtW46z9lCa#scroll
 The slides that we will be presenting are available at the following link: 
 https://docs.google.com/presentation/d/1FeFIHftkqQYdM8EWroxcKURnKOv-sosJ8xoF3a6BLhw/edit?usp=sharing 
 
-The paper that includes are analysis are available on the GitHub folder for the project. 
+The paper that includes are analysis are available on the GitHub folder for the project.
